@@ -7,8 +7,6 @@
     "type": "git",
     "url": "git+ssh://git@github.com/josepharhar/spotify.git"
   },
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/josepharhar/spotify/issues"
   },
