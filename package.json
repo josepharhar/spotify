@@ -1,0 +1,16 @@
+{
+  "name": "spotify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/josepharhar/spotify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josepharhar/spotify/issues"
+  },
+  "homepage": "https://github.com/josepharhar/spotify#readme"
+}
